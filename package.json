@@ -4,7 +4,8 @@
   "description": "Organize the files in download folder",
   "type": "module",
   "bin": {
-    "organizer-app": "index.js"
+    "organizer-app": "index.js",
+    "organizer-app-config": "config.json"
   },
   "author": {
     "name": "Satnam dass (codguy)",
