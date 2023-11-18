@@ -1,0 +1,26 @@
+{
+  "name": "organizer-app",
+  "version": "0.0.1",
+  "description": "Organize the files in download folder",
+  "type": "module",
+  "bin": {
+    "organizer-app": "index.js"
+  },
+  "author": {
+    "name": "Satnam dass (codguy)",
+    "email": "satnam9762@gmail.com",
+    "url": "https://codguy.github.io/portfolio/"
+  },
+  "keywords": [
+    "Youtube-downloader",
+    "Satnam dass (codguy)"
+  ],
+  "files": [
+    "index.js",
+    "utils"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
