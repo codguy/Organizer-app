@@ -1,8 +1,8 @@
 {
-    "directories": ["C:/Users/satna/Downloads", "C:/Users/satna/Desktop"],
+    "directories": ["C:/Users/testUser/Downloads", "C:/Users/testUser/Desktop"],
     "configuration": {
         "pictures": {
-            "directoryPath": "C:/Users/satna/Pictures",
+            "directoryPath": "C:/Users/testUser/Pictures",
             "extension": [
                 "png",
                 "jpg",
@@ -14,20 +14,20 @@
             ]
         },
         "music": {
-            "directoryPath": "C:/Users/satna/Music",
+            "directoryPath": "C:/Users/testUser/Music",
             "extension": [
                 "mp3"
             ]
         },
         "videos": {
-            "directoryPath": "C:/Users/satna/Videos",
+            "directoryPath": "C:/Users/testUser/Videos",
             "extension": [
                 "mp4",
                 "mkv"
             ]
         },
         "documents": {
-            "directoryPath": "C:/Users/satna/Documents",
+            "directoryPath": "C:/Users/testUser/Documents",
             "extension": [
                 "txt",
                 "pdf",
@@ -37,7 +37,7 @@
             ]
         },
         "Compressed": {
-            "directoryPath": "C:/Users/satna/Compressed",
+            "directoryPath": "C:/Users/testUser/Compressed",
             "extension": [
                 "rar",
                 "zip",
